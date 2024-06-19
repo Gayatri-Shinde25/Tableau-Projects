@@ -43,8 +43,7 @@ Aircraft Performance Chart: Displays the average selected metric by aircraft, al
 
 Project Overview
 
-This project focuses on creating visualizations using Tableau, combining them into a comprehensive dashboard. The dataset used is related to COVID-19, with various queries run in SQL to extract meaningful insights. The goal is to make the project accessible for beginners, allowing you to build your first Tableau dashboard and add it to your portfolio or resume.
-
+This project focuses on creating visualizations using Tableau, combining them into a comprehensive dashboard. The dataset used is related to COVID-19, with various queries run in SQL to extract meaningful insights. The goal is to make the project easy to visualize and draw insights to strategize the replication of Covid 19 and understand the Covid prone zones and Countries. 
 ### Data Sources
 1. COVID-19 Dataset (covid_data.csv)
 Columns:

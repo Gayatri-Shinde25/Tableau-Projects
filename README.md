@@ -1,4 +1,5 @@
 # Tableau-Projects
+1. British Airways Review Visualization
 Different tableau visualization Projects
 Project Overview
 This project involves creating an interactive dashboard using Tableau. The dashboard displays British Airways (BA) reviews, allowing users to dynamically filter and explore various metrics such as overall ratings, food ratings, entertainment ratings, and more. The interactive features include filtering by date, traveler type, seat type, aircraft, and continent. Each visual acts as a dynamic filter to help users drill down into specific data points of interest.

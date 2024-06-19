@@ -31,25 +31,8 @@ Traveler Type Filter: Filter by traveler type (e.g., business, couple, family).
 Seat Type Filter: Filter by seat type (e.g., business class, economy class).
 Aircraft Filter: Filter by specific aircraft models.
 Continent Filter: Filter by continent.
-Interactive Map:
 
-Displays average ratings by country with a color gradient. Users can click on countries to filter the data accordingly.
-Summary Metrics:
-
-Displays key metrics such as average overall rating, cabin staff service, entertainment, food, ground service, seat comfort, and value for money.
-Monthly Trend Chart:
-
-Shows the average selected metric over time.
-Aircraft Performance Chart:
-
-Displays the average selected metric by aircraft, alongside the number of reviews for each aircraft.
-Instructions
-Data Preparation:
-
-Load the ba_reviews.csv and countries.csv files into Tableau.
-Establish a relationship between the Place column in ba_reviews.csv and the Country column in countries.csv.
-Dashboard Construction:
-
-Create individual sheets for the map, summary metrics, monthly trend, and aircraft performance.
-Add and configure filters for date, traveler type, seat type, aircraft, and continent.
-Assemble the sheets and filters into a single dashboard layout, ensuring all elements are interactive and responsive to user inputs.
+Interactive Map: Displays average ratings by country with a color gradient. Users can click on countries to filter the data accordingly.
+Summary Metrics: Displays key metrics such as average overall rating, cabin staff service, entertainment, food, ground service, seat comfort, and value for money.
+Monthly Trend Chart: Shows the average selected metric over time.
+Aircraft Performance Chart: Displays the average selected metric by aircraft, alongside the number of reviews for each aircraft.
